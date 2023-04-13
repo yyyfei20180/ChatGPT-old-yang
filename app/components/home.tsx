@@ -115,9 +115,9 @@ function _Home() {
         className={styles.sidebar + ` ${showSideBar && styles["sidebar-show"]}`}
       >
         <div className={styles["sidebar-header"]}>
-          <div className={styles["sidebar-title"]}>ChatGPT YYX</div>
+          <div className={styles["sidebar-title"]}>ChatGPT waynesun</div>
           <div className={styles["sidebar-sub-title"]}>
-            Build your GPT contact v:connection-image
+            Build your GPT
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
@@ -157,7 +157,7 @@ function _Home() {
               />
             </div>
             <div className={styles["sidebar-action"]}>
-              <a href="http://www.baidu.com" target="_blank">
+              <a href="https://gptmax.wiki" target="_blank">
                 <IconButton icon={<GithubIcon />} shadow />
               </a>
             </div>
